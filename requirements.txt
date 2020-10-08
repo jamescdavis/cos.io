@@ -30,7 +30,7 @@ html5lib==0.999999
 jmespath==0.9.0
 kagiso-wagtail-slack==0.0.4
 lxml==3.6.4
-passlib==1.6.5
+passlib==1.7.3
 pexpect==4.2.1
 pickleshare==0.7.4
 Pillow==3.4.2
